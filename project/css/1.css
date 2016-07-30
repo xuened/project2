@@ -1,0 +1,47 @@
+body{
+	padding: 20px;
+	font-size: 15px;
+}
+h2{
+	margin: 0;
+}
+#main{
+	padding: 20px;
+	overflow: auto;
+	border: 1px solid #999;
+	min-width: 600px;
+	background: #eee;
+}
+#left{
+	float: left;
+	padding: 20px;
+	width: 160px;
+	border: 1px solid #999;
+	background: #fff;
+}
+#right{
+	float: right;
+	width: 120px;
+	border: 1px solid #999;
+	background: #fff;
+}
+#middle{
+	 padding: 20px;
+ 	 margin-left: 220px;
+  	 margin-right: 140px;
+  	 background: #fff;
+ 	 border: 1px solid #999;
+}
+#pi{
+	float: left;
+}
+.picture{
+	margin: 20px;
+	display: block;
+}
+#teamname{
+	width: 180px;
+  	font-size: 13px;
+ 	 font-weight: bold;
+ 	 text-align: center;
+}
